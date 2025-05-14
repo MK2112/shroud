@@ -25,4 +25,5 @@ By introducing non-uniform jitter and subtle noise, *Shroud* prevents websites f
 
 MIT. See [LICENSE](LICENSE) for details.
 
-This tool is a research project intended to showcase the obfuscation of timing and scrolling behavior. It is not intended for applied use.
+This tool is a research project intended to showcase the obfuscation of timing and scrolling behavior.<br>
+It is not intended for applied use.
